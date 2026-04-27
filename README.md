@@ -159,7 +159,7 @@ Uno de los proyectos en desarrollo incluye análisis del **Salar de Uyuni**, int
 
 ## 🔗 Conecta conmigo
 
-* 💼 LinkedIn: https://www.instagram.com/dataconsultor.freelance/
+* 💼 LinkedIn: https://www.linkedin.com/in/victorhugovillegasrios/
 * 💻 GitHub: https://github.com/VictorHugoVillegasRios
 
 ---
